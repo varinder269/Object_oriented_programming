@@ -1,5 +1,5 @@
 class fraction:
-    def __init__(self,n,d):
+    def __init__(self,n,d) :
         self.num =n
         self.den =d
     def __str__(self):
